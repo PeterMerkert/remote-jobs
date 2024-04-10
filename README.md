@@ -622,6 +622,7 @@ Name | Website | Region
 [RenoFi](/company-profiles/renofi.md) | https://renofi.com/ |  Worldwide
 [Replit](/company-profiles/replit.md) | https://replit.com | Worldwide
 [Research Square](/company-profiles/research-square.md) | https://www.researchsquare.com/ | USA
+[Retraced](/company-profiles/retraced.md) | https://retraced.com/ | Denmark, Germany, Italy, Spain
 [Revolgy](/company-profiles/revolgy.md) | https://www.revolgy.com/ | Europe, the Middle East, Africa
 [Revolut](/company-profiles/revolut.md) | https://www.revolut.com/ | Worldwide
 [Roadpass Digital](/company-profiles/roadpass-digital.md) | https://roadpass.com | USA
